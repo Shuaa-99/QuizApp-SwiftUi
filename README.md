@@ -27,9 +27,7 @@ Welcome to my **SwiftUI project**, where I’m applying what I’ve learned to b
 
 - **SwiftUI**: Declarative UI design for building a responsive and elegant interface.  
 - **Xcode**: Integrated development environment for building and debugging the app.  
-- **Swift**: Programming language for creating app logic and handling interactions.  
-- **Combine**: Framework for managing app state and reactive programming.  
-- **CoreGraphics**: For designing custom shapes and visual elements.  
+- **Swift**: Programming language for creating app logic and handling interactions.   
 - **UserDefaults**: To persist progress and save user data locally.  
 - **SF Symbols**: For adding high-quality system icons to the app.  
 - **Git & GitHub**: Version control and project management.  
