@@ -50,13 +50,17 @@ This project is part of my journey to practice and refine my SwiftUI skills. Ins
 ---
 
 ### **Preview**
+ ## 🎥 App Demo 
 
-#### 🎥 Watch the Demo  
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+
+https://github.com/user-attachments/assets/7db7d91d-1966-4230-b0f7-85e536034a4d
+
+
 
 #### 📸 Screenshot  
-![App Screenshot](https://your-image-link.com/screenshot.png)
+<img src="https://github.com/user-attachments/assets/25dc41a7-b70e-4b56-a992-0a29217b418b" width="30%" /> 
+<img src="https://github.com/user-attachments/assets/209d1f3e-7a7c-4ba9-beae-f3069c4fcb6c" width="30%" /> 
+<img src="https://github.com/user-attachments/assets/b439eb37-31c7-4990-9dd5-a36c4b66e0d0" width="30%" />
 
 ---
 
-Stay tuned for updates as I continue improving and adding new features to this app! 🚀
