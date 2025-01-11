@@ -4,7 +4,7 @@ Welcome to my **SwiftUI project**, where I’m applying what I’ve learned to b
 
 ---
 
-### 🔥 **Key Features**  
+### 📲 **Key Features**  
 
 - **Dynamic Multiple Choice Questions**  
    - Each level includes unique questions with interactive answer options.  
@@ -34,13 +34,13 @@ Welcome to my **SwiftUI project**, where I’m applying what I’ve learned to b
 
 ---
 
-### 🧑‍💻 **What Inspired Me?**  
+### 👩‍💻 **What Inspired Me?**  
 
 This project is part of my journey to practice and refine my SwiftUI skills. Inspired by [@sucodeee on X](https://x.com/sucodeee), I’ve integrated ideas and concepts into a practical implementation.  
 
 ---
 
-### 🌟 **What Makes It Stand Out**  
+### ✨ **What Makes It Stand Out**  
 
 - **Educational yet Fun**: The level progression and retry mechanism keep the experience engaging.  
 - **Custom Visuals**: Progress bars and level indicators are tailored to enhance usability and appeal.  
