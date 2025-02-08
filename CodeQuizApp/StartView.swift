@@ -14,6 +14,7 @@ struct StartView: View {
     @State private var gradientStartColor: Color = Color.blue
     @State private var gradientEndColor: Color = Color.purple
     @State private var currentStage = 1
+    @State private var bounce: Bool = false  // حالة لتتبع الحركة
 
     var body: some View {
         NavigationView {
@@ -23,6 +24,16 @@ struct StartView: View {
                     .bold()
                     .foregroundColor(.purple)
                     .padding(.top, 50)
+                Image("lamp3D")
+                    .resizable()
+                    .frame(width: 150, height: 150)
+                    .animation(
+                        Animation.easeInOut(duration: 2.5)
+                            .repeatForever(autoreverses: true)
+                    )
+                    .onAppear {
+                        bounce.toggle()
+                    }
                 
                 Spacer()
                 
@@ -30,6 +41,7 @@ struct StartView: View {
                     .font(.headline)
                     .foregroundColor(.gray)
                     .padding(.bottom, 20)
+                    .multilineTextAlignment(.center)
                 Spacer()
                 NavigationLink(destination: ContentView())
                     {
