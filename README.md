@@ -48,8 +48,10 @@ This project is part of my journey to practice and refine my SwiftUI skills. Ins
 
 ### **Preview**
 ## 🎥 App Demo
-[Watch the demo video](https://github.com/Shuaa-99/QuizApp-SwiftUi/blob/main/CodeQuizApp/Assets.xcassets/Simulator%20Screen%20Recording%20.dataset/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20-%202025-02-09%20at%2011.46.43.mp4)
-
+<video width="320" height="240" controls>
+  <source src="https://github.com/Shuaa-99/QuizApp-SwiftUi/raw/44213ce05d04fc19daa263800de877ccaa6d2e1e/CodeQuizApp/Assets.xcassets/Simulator%20Screen%20Recording%20.dataset/Simulator%20Screen%20Recording%20.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 #### 📸 Screenshot  
 <img src="CodeQuizApp/Assets.xcassets/firstScreen.imageset/Simulator Screenshot - iPhone 16 Pro - 2025-02-09 at 11.46.10.png" width="30%" /> 
