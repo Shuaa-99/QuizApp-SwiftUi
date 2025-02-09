@@ -1,6 +1,6 @@
 ### **SwiftUI Quiz App with Level Progression and Custom Progress Map**  
 
-Welcome to my **SwiftUI project**, where I’m applying what I’ve learned to build an interactive quiz app. This app showcases a **level-based progression system** with custom animations and visual progress tracking.  
+An interactive quiz app. This app showcases a **level-based progression system** with custom animations and visual progress tracking.  
 
 ---
 
