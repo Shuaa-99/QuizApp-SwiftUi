@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/7db7d91d-1966-4230-b0f7-85e536034a4d
 
 
 #### 📸 Screenshot  
-<img src="CodeQuizApp/Assets.xcassets/firstScreen.imageset" width="30%" /> 
+<img src="CodeQuizApp/Assets.xcassets/firstScreen.imageset/Simulator Screenshot - iPhone 16 Pro - 2025-02-09 at 11.46.10.png" width="30%" /> 
 <img src="https://github.com/user-attachments/assets/209d1f3e-7a7c-4ba9-beae-f3069c4fcb6c" width="30%" /> 
 <img src="https://github.com/user-attachments/assets/b439eb37-31c7-4990-9dd5-a36c4b66e0d0" width="30%" />
 
