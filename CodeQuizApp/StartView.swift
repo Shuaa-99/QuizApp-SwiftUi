@@ -14,30 +14,22 @@ struct StartView: View {
     @State private var gradientStartColor: Color = Color.blue
     @State private var gradientEndColor: Color = Color.purple
     @State private var currentStage = 1
-    @State private var bounce: Bool = false  // حالة لتتبع الحركة
 
     var body: some View {
         NavigationView {
             VStack {
+                
                 Text("Quiz Game")
                     .font(.largeTitle)
                     .bold()
-                    .foregroundColor(.purple)
+                    .foregroundColor(.white)
                     .padding(.top, 50)
-                Image("lamp3D")
+                Image(.book)
                     .resizable()
-                    .frame(width: 150, height: 150)
-                    .animation(
-                        Animation.easeInOut(duration: 2.5)
-                            .repeatForever(autoreverses: true)
-                    )
-                    .onAppear {
-                        bounce.toggle()
-                    }
-                
+                    .frame(width: 200, height: 200)
                 Spacer()
                 
-                Text("You are about to start the challenge! Choose the correct answers and progress through the stages!")
+                Text("Challenge Begins! Choose the right answers and advance through the stages!")
                     .font(.headline)
                     .foregroundColor(.gray)
                     .padding(.bottom, 20)
@@ -46,16 +38,19 @@ struct StartView: View {
                 NavigationLink(destination: ContentView())
                     {
                     Text("Start")
-                        .font(.title)
+                            .font(.headline)
                         .foregroundColor(.white)
-                        .frame(width: 150, height: 40)
+                        .frame(width: 130, height: 20)
                         .padding()
-                        .background(
-                            LinearGradient(gradient: Gradient(colors: [gradientStartColor, gradientEndColor]), startPoint: .topLeading, endPoint: .bottomTrailing)
-                                .cornerRadius(15)
-                        )
+                        .overlay(
+                                        RoundedRectangle(cornerRadius: 12)
+                                            .stroke(
+                                                LinearGradient(gradient: Gradient(colors: [gradientStartColor, gradientEndColor]), startPoint: .topLeading, endPoint: .bottomTrailing)
+                                                   ,
+                                                lineWidth: 3
+                                            )
+                                    )
                         .scaleEffect(scale)
-                        .shadow(radius: 15)
                 }
                 .animation(
                     Animation.easeInOut(duration: 1.5)
