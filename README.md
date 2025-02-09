@@ -18,9 +18,6 @@ An interactive quiz app. This app showcases a **level-based progression system**
    - A visually appealing progress tracker using **SwiftUI shapes and paths**.  
    - Enhanced with gradient animations and responsive design.  
 
-- **Beautiful Animations**  
-   - Transitions and visual effects bring life to the app, ensuring an intuitive user experience.  
-
 ---
 
 ### 🛠 **Tech Stack and Tools**  
