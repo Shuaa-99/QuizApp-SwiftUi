@@ -50,8 +50,7 @@ This project is part of my journey to practice and refine my SwiftUI skills. Ins
  ## 🎥 App Demo 
 
 
-CodeQuizApp/Assets.xcassets/firstScreen.imageset/Simulator Screenshot - iPhone 16 Pro - 2025-02-09 at 11.46.10.png
-
+CodeQuizApp/Assets.xcassets/Simulator Screen Recording .dataset/Simulator Screen Recording - iPhone 16 Pro - 2025-02-09 at 11.46.43.mp4
 
 
 #### 📸 Screenshot  
