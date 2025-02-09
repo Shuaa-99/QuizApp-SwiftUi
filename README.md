@@ -47,10 +47,8 @@ This project is part of my journey to practice and refine my SwiftUI skills. Ins
 ---
 
 ### **Preview**
- ## 🎥 App Demo 
-
-
-CodeQuizApp/Assets.xcassets/Simulator Screen Recording .dataset/Simulator Screen Recording - iPhone 16 Pro - 2025-02-09 at 11.46.43.mp4
+## 🎥 App Demo
+[Watch the demo video](https://github.com/Shuaa-99/QuizApp-SwiftUi/blob/main/CodeQuizApp/Assets.xcassets/Simulator%20Screen%20Recording%20.dataset/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20-%202025-02-09%20at%2011.46.43.mp4)
 
 
 #### 📸 Screenshot  
